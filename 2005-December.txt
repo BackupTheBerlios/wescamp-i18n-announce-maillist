@@ -1,0 +1,24 @@
+From tapik at buchtovi.cz  Thu Dec  8 18:46:36 2005
+From: tapik at buchtovi.cz (Oto 'tapik' Buchta)
+Date: Thu, 8 Dec 2005 18:46:36 +0100
+Subject: [Wescamp-i18n-announce] Delfador's Memoirs is alive again!
+Message-ID: <200512081846.36572.tapik@buchtovi.cz>
+
+Hi All Delfador fans! 
+I'm glad to announce that the Delfador's Memoirs campaign has changed its 
+maintainer (me :-) ) and that the new, fully internationalized, revision 
+0.6.0 is ready and waiting for your downloads on the campaign server.
+
+Plenty of thanks to Torangan for his help with wescamp. His patience with me 
+and my stupid questions and my mistakes let me change this campaign to the 
+playable and translatable version.
+
+Please, inform me about all bugs you will find. I'm sure there are some bugs 
+there, I'm a very green greenhorn in the wesnoth development.
+
+Current and all new translators, the campaign is waiting for you!
+-- 
+Oto 'tapik' Buchta, tapik at buchtovi.cz
+http://www.buchtovi.cz
+
+
